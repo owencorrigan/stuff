@@ -2,6 +2,10 @@
 Part of an excercise to learn about dynamic programming
 I wanted to see if I could beat the recursion limit by replacing recursion with manageing my own stack.
 
+Based on these 2 articles
+http://stupidpythonideas.blogspot.com/2014/10/how-do-i-make-recursive-function.html
+https://blog.moertel.com/posts/2013-05-11-recursive-to-iterative.html
+
 It's possible but not very practical.
 
 Future project: 
